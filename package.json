@@ -30,5 +30,9 @@
     "repl": "python ./script/start.py --interactive",
     "start": "python ./script/start.py",
     "test": "python ./script/test.py"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "marky-markdown": "^7.0.0"
   }
 }
